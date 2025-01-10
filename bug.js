@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android APK.  The build process fails with an error similar to `FAILURE: Build failed with an exception. * What went wrong: Execution failed for task ':app:processDebugManifest'. > Manifest merger failed with multiple errors, see logs.
